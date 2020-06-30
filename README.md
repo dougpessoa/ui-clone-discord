@@ -1,44 +1,83 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<h1  align="center">UI Clone Discord</h1>
 
-In the project directory, you can run:
+<blockquote  align="center">
+  Projeto criado para estudos de ReactJS
+</blockquote>
 
-### `yarn start`
+<img src="/src/assets/screenshots/screenshot.jpg" alt="Screenshot do projeto">
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<p align="center">
+  <a  href="https://www.linkedin.com/in/douglaspessoa/"  target="_blank">
+    <img  src="https://img.shields.io/badge/desenvolvedor-Douglas%20Pessoa-yellowgreen"  alt="Douglas Pessoa">
+  </a>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+  <img src="https://img.shields.io/badge/framework-ReactJS-60DBFB" alt="ReactJS">
+  <img src="https://img.shields.io/badge/linguagem-TypeScript-007ACC" alt="TypeScript">
+  <img src="https://img.shields.io/badge/CSS--In--JS-Styled%20Components-ee00ff" alt="Styled Components">
+</p>
 
-### `yarn test`
+<!-- <p align="center">
+  <a href="#" target="_blank">Veja a demo</a>
+</p> -->
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Sobre o Projeto
+Esse projeto foi feito com base na aula da <a href="https://www.youtube.com/watch?v=0mYq5LrQN1s" target="_blank">Rocketseat no YouTube</a> e foi produzido para aprimoramento dos meus estudos relacionados ao TypeScript.
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Dependências trabalhadas
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+- Styled Components
+- Styled Icons
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Instalação
 
-### `yarn eject`
+- Instale o <a href="https://nodejs.org/en/" target="_target">NodeJS</a> e <a href="https://yarnpkg.com/">Yarn</a>.
+- Abra o terminal e execute o comando: ``` git clone  ```
+- Após baixar o repositório, execute no terminal: ``` yarn ```
+- E por fim execute também no terminal: ``` yarn start ```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+---
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<i>English</i>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<h1  align="center">UI Clone Discord</h1>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<blockquote  align="center">
+  Projeto criado para estudos de ReactJS
+  Project created for studies with ReactJS
+</blockquote>
 
-## Learn More
+<img src="/src/assets/screenshots/screenshot.jpg" alt="Screenshot do projeto">
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<p align="center">
+  <a  href="https://www.linkedin.com/in/douglaspessoa/"  target="_blank">
+    <img  src="https://img.shields.io/badge/developer-Douglas%20Pessoa-yellowgreen"  alt="Douglas Pessoa">
+  </a>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+  <img src="https://img.shields.io/badge/framework-ReactJS-60DBFB" alt="ReactJS">
+  <img src="https://img.shields.io/badge/language-TypeScript-007ACC" alt="TypeScript">
+  <img src="https://img.shields.io/badge/CSS--In--JS-Styled%20Components-ee00ff" alt="Styled Components">
+</p>
+
+
+<!-- <p align="center">
+  <a href="#" target="_blank">Veja a demo</a>
+</p> -->
+
+## About this project
+This project was made based on the class of <a href="https://www.youtube.com/watch?v=0mYq5LrQN1s" target="_blank">Rocketseat on YouTube</a> and was produced to improve my studies related to TypeScript.
+
+
+## Dependencies
+
+- Styled Components
+- Styled Icons
+
+## Instalation
+
+- Install <a href="https://nodejs.org/en/" target="_target">NodeJS</a> and <a href="https://yarnpkg.com/">Yarn</a>.
+- Open terminal and run: ``` git clone  ```
+- After run on terminal: ``` yarn ```
+- In the end run on terminal: ``` yarn start ```
+
