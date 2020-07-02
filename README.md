@@ -17,9 +17,10 @@
   <img src="https://img.shields.io/badge/CSS--In--JS-Styled%20Components-ee00ff" alt="Styled Components">
 </p>
 
-<!-- <p align="center">
-  <a href="#" target="_blank">Veja a demo</a>
-</p> -->
+<p align="center">
+  <a href="https://doug-ui-clone-discord.netlify.app/" target="_blank">Veja a demo</a> ou <a href="https://gitpod.io/#https://github.com/dougpessoa/ui-clone-discord" target="_blank">Abra no Gitpod</a> 
+</p>
+
 
 ## Sobre o Projeto
 Esse projeto foi feito com base na aula da <a href="https://www.youtube.com/watch?v=0mYq5LrQN1s" target="_blank">Rocketseat no YouTube</a> e foi produzido para aprimoramento dos meus estudos relacionados ao TypeScript.
@@ -61,9 +62,10 @@ Esse projeto foi feito com base na aula da <a href="https://www.youtube.com/watc
 </p>
 
 
-<!-- <p align="center">
-  <a href="#" target="_blank">Veja a demo</a>
-</p> -->
+
+<p align="center">
+  <a href="https://doug-ui-clone-discord.netlify.app/" target="_blank">Demo here</a> or <a href="https://gitpod.io/#https://github.com/dougpessoa/ui-clone-discord" target="_blank">Open on Gitpod</a> 
+</p>
 
 ## About this project
 This project was made based on the class of <a href="https://www.youtube.com/watch?v=0mYq5LrQN1s" target="_blank">Rocketseat on YouTube</a> and was produced to improve my studies related to TypeScript.
