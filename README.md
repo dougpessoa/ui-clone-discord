@@ -45,7 +45,6 @@ Esse projeto foi feito com base na aula da <a href="https://www.youtube.com/watc
 <h1  align="center">UI Clone Discord</h1>
 
 <blockquote  align="center">
-  Projeto criado para estudos de ReactJS
   Project created for studies with ReactJS
 </blockquote>
 
